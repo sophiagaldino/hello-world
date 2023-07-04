@@ -1,1 +1,1 @@
-# hello-world
+Esse repositório se trata de uma atividade com o intuito de criar o repositório no GitHub, chamado hello world.
